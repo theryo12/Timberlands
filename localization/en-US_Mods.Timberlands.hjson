@@ -1,0 +1,8 @@
+Subworlds.TimberlandsWorld.DisplayName: Timberlands World
+
+Items: {
+	Timbertoken: {
+		DisplayName: Timbertoken
+		Tooltip: ""
+	}
+}
